@@ -1,0 +1,19 @@
+{
+    "name": "128-3-80",
+    "df_name": "cresh",
+    "df_train": "data/cresh/cresh_train.pkl",
+    "categorical_cols": [],
+    "occutherm_tree_depth" : 10,
+    "cresh_tree_depth" : 10,
+    "model_path": "models/comfortGAN-128-3-80-cresh.pkl",
+    "batch_size": 128,
+    "gamma": 0.2,
+    "scaling": "2minmax",
+    "z_dim": 80,
+    "n_critic": 3,
+    "seed": 13,
+    "max_itr": 20000,
+    "cresh_req_nine" : 547,
+    "cresh_req_ten" : 0,
+    "cresh_req_eleven" : 433
+}

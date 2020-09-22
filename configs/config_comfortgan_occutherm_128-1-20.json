@@ -1,0 +1,21 @@
+{
+    "name": "128-1-20",
+    "df_name": "occutherm",
+    "df_train": "data/occutherm/df_feature1_train.pkl",
+    "categorical_cols": [6],
+    "occutherm_tree_depth" : 10,
+    "occutherm_tree_depth" : 10,
+    "model_path": "models/comfortGAN-128-1-20-occutherm.pkl",
+    "batch_size": 128,
+    "gamma": 0.3,
+    "scaling": "2minmax",
+    "z_dim": 20,
+    "n_critic": 1,
+    "seed": 13,
+    "max_itr": 20000,
+    "occutherm_req_two" : 774,
+    "occutherm_req_one" : 647,
+    "occutherm_req_zero" : 0,
+    "occutherm_req_minus_one" : 515,
+    "occutherm_req_minus_two" : 646
+}

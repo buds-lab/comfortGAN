@@ -1,0 +1,23 @@
+{
+    "name": "64-1-100",
+    "df_name": "ashrae",
+    "df_train": "data/ashrae/ashrae_train.pkl",
+    "categorical_cols": [],
+    "ashrae_tree_depth" : 10,
+    "cresh_tree_depth" : 10,
+    "model_path": "models/comfortGAN-64-1-100-ashrae.pkl",
+    "batch_size": 64,
+    "gamma": 0.1,
+    "scaling": "2minmax",
+    "z_dim": 100,
+    "n_critic": 1,
+    "seed": 13,
+    "max_itr": 20000,
+    "ashrae_req_three" : 16173,
+    "ashrae_req_two" : 14096,
+    "ashrae_req_one" : 10161,
+    "ashrae_req_zero" : 0,
+    "ashrae_req_minus_one" : 11695,
+    "ashrae_req_minus_two" : 16287,
+    "ashrae_req_minus_three" : 17894
+}

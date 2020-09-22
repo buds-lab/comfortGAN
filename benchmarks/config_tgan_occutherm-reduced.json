@@ -1,0 +1,15 @@
+{
+    "df_train": "../data/occutherm/df_feature1_train_reduced.pkl",
+    "continuous_cols": [0, 1, 2, 3, 4, 5, 7, 8],
+    "model_path": "../models/tgan_occutherm_reduced.pkl",
+    "batch_size": 200,
+    "z_dim": 400,
+    "num_gen_rnn": 300,
+    "num_gen_feature": 600,
+    "num_dis_layers": 1,
+    "num_dis_hidden": 300,
+    "learning_rate": 0.001,
+    "noise": 0.3,
+    "max_epoch": 5,
+    "steps_per_epoch": 10000
+}

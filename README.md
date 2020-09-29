@@ -4,7 +4,7 @@
 # Balancing thermal comfort datasets: We GAN, but should we?
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  ![Python Version](https://upload.wikimedia.org/wikipedia/commons/f/fc/Blue_Python_3.7_Shield_Badge.svg) ![PyTorch version](https://img.shields.io/badge/PyTorch-1.6-blue)
 
-This repository is the official implementation of [Balancing thermal comfort datasets: We GAN, but should we?](https://arxiv.org/abs/2030.12345).  @TODO: update Link @TODO: bibtex of the paper
+This repository is the official implementation of [Balancing thermal comfort datasets: We GAN, but should we?](https://arxiv.org/abs/2009.13154).
 
 ## Requirements
 

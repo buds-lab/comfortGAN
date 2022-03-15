@@ -1,10 +1,8 @@
-<!-- For the public repo use the following badges:
-[![DOI:10.1007/978-3-319-76207-4_15](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1007/978-3-319-76207-4_15)
- -->
-# Balancing thermal comfort datasets: We GAN, but should we?
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  ![Python Version](https://upload.wikimedia.org/wikipedia/commons/f/fc/Blue_Python_3.7_Shield_Badge.svg) ![PyTorch version](https://img.shields.io/badge/PyTorch-1.6-blue)
 
-This repository is the official implementation of [Balancing thermal comfort datasets: We GAN, but should we?](https://arxiv.org/abs/2009.13154).
+# Balancing thermal comfort datasets: We GAN, but should we?
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  ![Python Version](https://upload.wikimedia.org/wikipedia/commons/f/fc/Blue_Python_3.7_Shield_Badge.svg) ![PyTorch version](https://img.shields.io/badge/PyTorch-1.6-blue) [![arXiv](https://img.shields.io/badge/arXiv-2009.13154-b31b1b.svg)](https://arxiv.org/abs/2009.13154)
+
+This repository is the official implementation of [Balancing thermal comfort datasets: We GAN, but should we?](https://dl.acm.org/doi/10.1145/3408308.3427612).
 
 ## Requirements
 
